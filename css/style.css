@@ -1,13 +1,13 @@
 h1 {
     
     text-align: center;
-    <span style="strong:italic"></span>
+    color: blue;
+    
+    }
 }
 h2 {
     color: red;
-    
-    text-align: center;
-    : bold;
+  
 }
 p {
     font-family: Arial;
@@ -20,4 +20,9 @@ ul {
 ol {
     line-height: 30px;
 }
-
+.strong {
+    font-style: italic;
+}
+.em {
+    font-style: bold;
+}
